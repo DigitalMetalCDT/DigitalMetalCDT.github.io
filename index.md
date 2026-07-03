@@ -77,8 +77,8 @@ additive manufacturing and digital manufacturing.
 - Dr Maryam Khaksar Ghalati (UoB)
 - Prof Nick Green (UoB)
 - Prof Hongbiao Dong (UoB)
-- Nikita Pietrow (MTC)
-- Mattew Thomas (MTC)
+- Dr Nikita Pietrow (MTC)
+- Dr Mattew Thomas (MTC)
 
 ---
 
