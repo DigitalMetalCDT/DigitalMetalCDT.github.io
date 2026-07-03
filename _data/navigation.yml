@@ -2,14 +2,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Summer 2026"
-    url: /summer-2026/
-
-  - title: "Team"
-    url: /team/
-
   - title: "GitHub"
     url: https://github.com/DigitalMetalCDT
 
   - title: "LinkedIn"
-    url: https://www.linkedin.com/company/106577849/admin/dashboard/
+    url: YOUR-LINKEDIN-LINK
