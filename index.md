@@ -12,6 +12,16 @@ header:
       url: "https://www.linkedin.com/company/106577849/admin/"
 author_profile: false
 classes: wide
+
+gallery:
+  - image_path: /assets/images/summer2026/group-work-1.jpg
+    alt: "DigitalMetal CDT students working collaboratively"
+
+  - image_path: /assets/images/summer2026/group-work-2.jpg
+    alt: "DigitalMetal CDT group work during the summer project"
+
+  - image_path: /assets/images/summer2026/group-work-3.jpg
+    alt: "DigitalMetal CDT cohort discussing the project"
 ---
 
 # DigitalMetal CDT Summer Project 2026
@@ -38,7 +48,7 @@ quality prediction and informed decision-making in additive manufacturing.
 
 ### Manufacturing Technology Centre — MTC
 
-The project is delivered in collaboration with the Manufacturing Technology
+The project is delivered in oration with the Manufacturing Technology
 Centre, providing students with insight into real industrial challenges in
 additive manufacturing and digital manufacturing.
 
@@ -112,7 +122,7 @@ research into industrial-scale manufacturing.
 
 ## Collaborative Group Work
 
-![DigitalMetal CDT group work](/assets/images/summer2026/group-work.jpg)
+{% include gallery caption="DigitalMetal CDT students working collaboratively on the Summer Project 2026." %}
 
 Students work collaboratively to understand the manufacturing data, define the
 research questions and develop suitable data-analysis and machine-learning
