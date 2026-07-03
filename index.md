@@ -3,8 +3,8 @@ layout: splash
 title: "EPSRC DigitalMetal CDT"
 #excerpt: "Developing future leaders in digital metal manufacturing"
 header:
-  overlay_color: "#27758a"
-  overlay_filter: 0.2
+  overlay_color: "#6f1d1b"
+  overlay_filter: 0.1
   actions:
     - label: "GitHub"
       url: "https://github.com/DigitalMetalCDT"
@@ -45,15 +45,17 @@ quality prediction and informed decision-making in additive manufacturing.
 ---
 
 ## Industrial Partner
-
+<img src="/assets/images/summer2026/mtc-logo.png"
+     alt="Manufacturing Technology Centre logo"
+     class="align-right"
+     style="width: 140px; margin-left: 30px; margin-bottom: 20px;">
 ### Manufacturing Technology Centre — MTC
 
 The project is delivered in oration with the Manufacturing Technology
 Centre, providing students with insight into real industrial challenges in
 additive manufacturing and digital manufacturing.
 
-![MTC Logo](/assets/images/summer2026/mtc-logo.png)
-
+<div style="clear: both;"></div>
 ---
 
 ## DigitalMetal CDT Team
